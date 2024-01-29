@@ -12,11 +12,9 @@
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.9.1",
-    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.6.0",
     "mini-css-extract-plugin": "^2.7.7",
     "style-loader": "^3.3.4",
-    "url-loader": "^3.0.0",
     "webpack": "^5.90.0",
     "webpack-cli": "^5.1.4"
   }
